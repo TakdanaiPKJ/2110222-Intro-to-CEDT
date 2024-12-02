@@ -1,0 +1,24 @@
+[{
+  "name": "John Smith",
+  "age": 45,
+  "department": "Sales",
+  "position": "Sales Manager"
+},
+{
+  "name": "Steve Moore",
+  "age": 24,
+  "department": "Sales",
+  "position": "Sales Staff"
+},
+{
+  "name": "Paul Crazy",
+  "age": 35,
+  "department": "HR",
+  "position": "HR Staff"
+},
+{
+  "name": "Brian Cresswell",
+  "age": 52,
+  "department": "General",
+  "position": "CEO"
+}]
